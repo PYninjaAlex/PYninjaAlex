@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-I am Alex! I am python developer. Like coding!
+👋 Hi, I’m @PYninjaAlex
+👀 I’m interested in python
+🌱 I’m currently learning django

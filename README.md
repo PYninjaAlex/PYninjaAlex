@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am Alex! I am django python dev. Like coding!
+I am Alex! I am python dev. Like coding!
